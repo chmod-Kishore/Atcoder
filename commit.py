@@ -3,7 +3,7 @@ import subprocess
 from datetime import datetime
 
 # Configuration
-LOCAL_REPO_PATH = "/home/kishore/Atcoder"  # Replace with your local Atcoder repo path
+LOCAL_REPO_PATH = "/home/kishore/kishore/Atcoder"  # Replace with your local Atcoder repo path
 
 def commit_and_push_changes(contest_name):
     # Navigate to the local repo
